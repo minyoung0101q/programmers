@@ -1,5 +1,5 @@
 package com.example.programmers.lv0;
-//day0805 LV0 최빈값 구하기
+
 import java.util.Arrays; //java.util.Arrays 패키지를 가져오고 있음, 이 패키지는 배열 관련 유틸리티 기능을 제공함, 예를 들어 배열 정렬에 사용되는 Array.sort() 메서드를 사용할 수 있음
 
 public class Solution10_second { //클래스는 자바에서 코드의 기본적인 구성 요소임
