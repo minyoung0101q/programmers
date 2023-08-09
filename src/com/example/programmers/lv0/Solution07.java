@@ -1,5 +1,5 @@
 package com.example.programmers.lv0;
-//day0805 LV0 배열 두 배 만들기
+//day0804 LV0 배열 두 배 만들기
 public class Solution07 {
     public int[] solution(int[] numbers) {
         int[] doubledNumbers = new int[numbers.length];
