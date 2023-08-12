@@ -3,15 +3,15 @@ package com.example.programmers.lv0;
 public class Solution12 {
     public int solution(int n) {
         int answer = 0;
-        if(n%7 == 0)
-            answer = n / 7;
-        else
-            answer = n / 7 + 1;
-        return answer;
+        if(n % 7 == 0) {
+            return answer = n / 7;
+        } else {
+            return answer = n / 7 + 1;
+        }
     }
     public static void main(String[] args) {
         Solution12 sol12 = new Solution12();
-        int result = sol12.solution(10);
+        int result = sol12.solution(10); //answer의 값이 들어옴
         System.out.println(result);
     }
 }
